@@ -19,7 +19,7 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/github/stars/divyadharshini247?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS" />
-
+&nbsp;
 </div>
 
 ---
