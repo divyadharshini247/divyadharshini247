@@ -65,7 +65,8 @@ print(me.career_goal())
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -139,26 +140,6 @@ print(me.career_goal())
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kit2824bcs042-glitch&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kit2824bcs042-glitch&theme=tokyonight&background=0d1117&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bcs042-glitch&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=ffffff" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kit2824bcs042-glitch&theme=tokyonight&utcOffset=5.5" />
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kit2824bcs042-glitch&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -209,9 +190,6 @@ print(me.career_goal())
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-88%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 </div>
 
@@ -222,20 +200,20 @@ print(me.career_goal())
 ```yaml
 🔭 Currently Building:
   - AI-integrated web applications
-  - Full-stack projects with Node.js & Express
+  - Full-stack projects with AI
 
 📚 Currently Learning:
   - React.js & modern frontend frameworks
-  - Machine Learning & Deep Learning fundamentals
+  - AI platforms
   - Advanced Data Structures & Algorithms
 
 🤝 Open To:
-  - Internship opportunities (2025)
+  - Internship opportunities
   - Open source contributions
   - Hackathons & coding competitions
   - Technical collaborations
 
-🎯 2025 Goals:
+🎯 2026 Goals:
   - Land a meaningful tech internship
   - Contribute to 3+ open source projects
   - Reach LeetCode 200+ & CodeChef 800+
@@ -253,10 +231,11 @@ print(me.career_goal())
 I'm enthusiastic about contributing to open source communities and collaborating on meaningful projects.
 
 **Areas of Interest:**
-- 🌐 Web Development (HTML/CSS/JS, Node.js)
-- 🤖 AI/ML tools and libraries
-- 🎨 UI/UX design systems and component libraries
-- 📱 Mobile-first responsive applications
+- 🌐 Freelancing
+- 🌐 Web Development (HTML/CSS/JS)
+- 🤖 AI tools
+- 🎨 UI/UX design systems
+
 
 📩 **Reach out if you'd like to collaborate!**
 
@@ -290,7 +269,6 @@ I'm enthusiastic about contributing to open source communities and collaborating
 💡 Philosophy:   "Code is poetry — write it beautifully."
 🌍 Languages:    Tamil | English | French
 🎨 Superpower:   Turning ideas into pixel-perfect UI
-🔥 Fun Fact:     I solved 670+ CodeChef problems before my 2nd semester!
 ⚡ Currently:    Exploring the intersection of AI and human-centered design
 🎯 Motto:        Build. Break. Learn. Repeat.
 ```
