@@ -36,7 +36,7 @@ class Divyadharshini:
         self.cgpa       = 8.48
         self.email      = "divyadharshini.b247@gmail.com"
         self.languages  = ["Tamil", "English", "French"]
-        self.interests  = ["Full Stack Dev", "AI/ML", "UI/UX Design", "Open Source"]
+        self.interests  = ["Full Stack Dev", "AI", "UI/UX Design", "Frontend"]
 
     def career_goal(self):
         return """
@@ -47,7 +47,7 @@ class Divyadharshini:
 
     def currently(self):
         return {
-            "learning"  : ["React.js", "Advanced Python", "Machine Learning"],
+            "learning"  : ["React.js", "AI tools", "php"],
             "building"  : ["AI-powered web apps", "UI/UX prototypes"],
             "open_to"   : ["Internships", "Open Source", "Collaborations"]
         }
@@ -73,13 +73,14 @@ print(me.career_goal())
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge\&logo=googleapps\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge&logo=OpenAI&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-a78bfa?style=for-the-badge&logo=buffer&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Stitch AI](https://img.shields.io/badge/Stitch%20AI-AI%20Platform-7C3AED?style=for-the-badge\&logo=openai\&logoColor=white)
+
 
 ### 🎨 Design & Prototyping
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
