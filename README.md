@@ -14,11 +14,11 @@
 <!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=kit2824bcs042-glitch&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://github.com/kit2824bcs042-glitch?tab=followers">
-  <img src="https://img.shields.io/github/followers/kit2824bcs042-glitch?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+<a href="https://github.com/divyadharshini247?tab=followers">
+  <img src="https://img.shields.io/github/followers/divyadharshini247?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/github/stars/kit2824bcs042-glitch?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS" />
+<img src="https://img.shields.io/github/stars/divyadharshini247?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS" />
 
 </div>
 
