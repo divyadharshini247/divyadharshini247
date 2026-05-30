@@ -247,7 +247,7 @@ I'm enthusiastic about contributing to open source communities and collaborating
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kit2824bcs042--glitch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit2824bcs042-glitch)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divyadharshini247)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-divyadharshini.b247@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyadharshini.b247@gmail.com)
 &nbsp;
