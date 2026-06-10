@@ -254,7 +254,6 @@ I'm enthusiastic about contributing to open source communities and collaborating
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-9677341886-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919677341886)
 
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
