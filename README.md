@@ -247,13 +247,29 @@ I'm enthusiastic about contributing to open source communities and collaborating
 ## 📬 Connect With Me
 
 <div align="center">
+<h2>📬 Connect with Me</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divyadharshini247)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-divyadharshini.b247@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyadharshini.b247@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-&nbsp;
+<p align="center">
+  <a href="https://linkedin.com/in/divyadharshini02/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+  </a>
+
+  <a href="https://github.com/divyadharshini247/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  </a>
+
+  <a href="mailto:divyadharshini.b247@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" />
+  </a>
+
+  <a href="https://www.codechef.com/users/kit28csb042">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="50" />
+  </a>
+
+ 
+</p>
+
+
 
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
